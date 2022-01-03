@@ -2,8 +2,8 @@
 	padding: 50px 20px 0 20px;
 }
 .logo img {
-	height: 50px;
-	width: 100px;
+	height: 40px;
+	width: 135px;
 }
 .menu ul li {
 	list-style: none;
@@ -135,27 +135,26 @@
 }
 .why-image {
 	background-color: rgb(241, 213, 86);
-	border-radius: 50%;
-	height: 60px;
-	width: 60px;
 }
 .why-image1 {
 	background-color: aqua;
-	border-radius: 50%;
-	height: 60px;
-	width: 60px;
 }
 .why-image2 {
 	background-color: rgb(42, 214, 142);
+}
+.why-image3 {
+	background-color: rgb(226, 162, 103);
+}
+.why-img {
 	border-radius: 50%;
 	height: 60px;
 	width: 60px;
 }
-.why-image3 {
-	background-color: rgb(226, 162, 103);
-	border-radius: 50%;
-	height: 60px;
-	width: 60px;
+.why-img img {
+	margin-top: 10px;
+	margin-left: 13px;
+	height: 35px;
+	width: 35px;
 }
 .payment {
 	margin-top: 100px !important;
